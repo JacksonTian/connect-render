@@ -1,4 +1,9 @@
 
+0.4.0 / 2014-03-28
+==================
+
+ * Enhancement partial to support expression (@JacksonTian)
+
 0.3.3 / 2014-02-26 
 ==================
 
